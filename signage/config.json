@@ -1,0 +1,7 @@
+{
+  "alertPollMs": 5000,
+  "alerts": {
+    "audioEnabled": true,
+    "audioFile": "/alert.mp3"
+  }
+}
